@@ -75,7 +75,6 @@
 
 <a href="https://ibb.co/RjhLhRM"><img src="https://i.ibb.co/qJ0b0T4/IMG-3598.jpg" alt="IMG-3598" border="0" /></a>
 
-Текст для создания конфликта от master
 
 
 
