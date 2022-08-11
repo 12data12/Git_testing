@@ -74,3 +74,5 @@
 | git diff хеш коммита 1 и хеш коммита 2 | Разница между двумя заданными коммитами |
 
 <a href="https://ibb.co/RjhLhRM"><img src="https://i.ibb.co/qJ0b0T4/IMG-3598.jpg" alt="IMG-3598" border="0" /></a>
+
+Fin. 
